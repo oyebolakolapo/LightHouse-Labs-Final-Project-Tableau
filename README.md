@@ -33,7 +33,7 @@ The project goals include:
 
 ## Challenges 
 (discuss challenges you faced in the project)
-More time was needed to explore more visualizations
+More time needed to explore more visualizations
 
 ## Future Goals
 (what would you do if you had more time?)
