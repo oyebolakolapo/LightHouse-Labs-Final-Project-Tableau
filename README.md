@@ -16,8 +16,6 @@ The project goals include:
 5.  What is the burden of HIV/TB co-infection?
 
 ## Process
-### (your step 1)
-### (your step 2)
 
 1. Created new fields to 'rank unique' the incidence, prevalence and mortality rates per year grouped by country/territories
 2. Mapped the global burden of TB (in 100,000 population) over space and time
