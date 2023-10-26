@@ -1,4 +1,4 @@
-# Final-Project-Tableau
+# Project-Tableau
 - This dataset estimates the global prevalence and mortality of tuberculosis between 1990 and 2013. Option IV
   
 - The dataset (a .csv) file has nine dimension values and 41 measures
